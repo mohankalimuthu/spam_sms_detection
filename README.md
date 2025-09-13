@@ -6,7 +6,7 @@
 
 # 📱 Spam SMS Detection
 
-## 📌 Abstract
+## 📌 Abstract 
 Unwanted spam messages are one of the most common issues faced by mobile users.  
 This project implements a **machine learning–based SMS spam classifier** to automatically detect and classify SMS messages as **spam** or **ham (not spam)**.  
 It leverages natural language processing (NLP) techniques for text preprocessing, feature extraction, and classification.
